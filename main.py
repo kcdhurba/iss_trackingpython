@@ -45,7 +45,7 @@ while True:
   # update iss location 
   iss.goto(lon, lat)
 
-  #refresh every 7 sec 
+  #refresh every 2 sec 
   
   time.sleep(2)
 
